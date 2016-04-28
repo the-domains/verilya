@@ -1,4 +1,5 @@
-layout_spectrum: 0.6924180372152478
+favicon: null
+name: verilya
 opengraph:
   image: null
   type: null
@@ -17,17 +18,18 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6725285586435348
+  saturation: 0.6725286
   brandStrength: 0.7697248971089721
-  lightness: 0.05405831173993647
+  lightness: 0.4724311
   brandColors:
     - '#FFFFFD'
     - '#536068'
     - '#CABFAB'
     - '#1E170D'
     - '#D34225'
-  rhythmicContrast: 0.4759912772569805
-typography_spectrum: 0.3788580782711506
+  rhythmicContrast: 0.4759913
+typography_spectrum: 0.6810777
+layout_spectrum: 0.4718045
 cta:
   bucket: null
   version: null
@@ -36,5 +38,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: verilya
