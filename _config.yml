@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.6924180372152478
 opengraph:
   image: null
   type: null
@@ -18,23 +15,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.6924180372152478
+purpose: []
+color:
+  saturation: 0.6725285586435348
+  brandStrength: 0.7697248971089721
+  lightness: 0.05405831173993647
+  brandColors:
+    - '#FFFFFD'
+    - '#536068'
+    - '#CABFAB'
+    - '#1E170D'
+    - '#D34225'
+  rhythmicContrast: 0.4759912772569805
+typography_spectrum: 0.3788580782711506
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.6725285586435348
-  brandStrength: 0.7697248971089721
-  rhythmicContrast: 0.4759912772569805
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  lightness: 0.05405831173993647
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: verilya
-typography_spectrum: 0.3788580782711506
